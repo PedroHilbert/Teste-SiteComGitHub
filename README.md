@@ -1,2 +1,2 @@
 # Teste-SiteComGitHub
- Testando HTML no Git/GitHub
+ Testando HTML e hospedagem no Git/GitHub
